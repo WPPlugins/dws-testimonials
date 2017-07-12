@@ -1,0 +1,7 @@
+/* Default CSS for the Plugin HTML */
+.testimonialBlock{margin:20px 0;}
+.testi_image{float:left;width:25%;}
+.testi_text{float:right;width:72%;}
+.testi_para {font-size:23px;}
+.testi_name, .testi_age, .testi_position, .testi_company, .testi_email {font-size:18px;}
+hr.testi_hr{margin:10px 0; border:none; background:gray; height:2px;}
